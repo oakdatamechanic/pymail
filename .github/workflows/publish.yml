@@ -1,4 +1,4 @@
-name: PyMail
+name: PyMail2
 
 on:
   push:
