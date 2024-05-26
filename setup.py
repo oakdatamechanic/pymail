@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pymail',
+    name='pymail2',
     version='0.1.0',
     author='Avinash Negi',
     author_email='avinash.negi2194@gmail.com',
@@ -17,6 +17,5 @@ setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        'smtp'
     ],
 )
